@@ -37,7 +37,7 @@ Realiza una consulta donde se muestren todos los datos de la tabla Pokemons
 ordenados por fechaCaptura, de modo que en la primera fila salga el que tenga la
 fecha más reciente.
 
-![imagen](https://github.com/user-attachments/assets/ae39b602-c15f-42cb-b0f4-4159e7d86d8b)
+![imagen](https://github.com/user-attachments/assets/525a373d-1d0e-4bee-a57e-cde2f08d4908)
 
 ## Apartado 4
 
